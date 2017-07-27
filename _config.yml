@@ -1,6 +1,6 @@
-title:            Site Title
+title:            CHUN'S BLOG
 description:      Describe your website here.
-disqus_shortname:
+disqus_shortname: chun, fan, chunfantasy, ntnu, whut, trondheim, wuhan, Norway, China, software, e-business, java, engineer, 范春, 挪威, 中国, 特隆赫姆, 武汉, 挪威科技, 武汉理工, 计算机, 电子商务, 工程师
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -9,17 +9,17 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           Chun Fan 范春
+  avatar:         avatar.png
+  bio:            "Knowing everything of something and something of everything.<br>广学而博<br>专一而精"
+  email:          chunfantasy@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
+  twitter:        chunfantasy
+  facebook:       chunfantasy
+  github:         chunfantasy
   stackexchange:
-  linkedin:
-  instagram:
+  linkedin:       chunfantasy
+  instagram:      chunfantasy
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
@@ -29,15 +29,15 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-64174722-4
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      false  # publish future dated posts --  true, false (default)
-highlighter: rouge
+timezone:    Europe/Oslo
+future:      true
+highlighter: Rouge
 markdown:    kramdown
 plugins:
   - jekyll-sitemap
