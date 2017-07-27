@@ -39,11 +39,14 @@ timezone:    Europe/Oslo
 future:      true
 highlighter: Rouge
 markdown:    kramdown
-plugins:
+plugins_dir:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+gems:
+  - jekyll-paginate
+
 sass:
   sass_dir: _sass
   style: compressed
