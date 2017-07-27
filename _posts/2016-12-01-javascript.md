@@ -6,7 +6,7 @@ modified: 2017-07-01
 tags: [Program Language]
 comments: true
 image:
-  feature: 2016-12-01-javascript.jpg
+  feature: 2016-12-01-javascript.gif
 ---
 
 This note is about the JavaScript.
