@@ -66,8 +66,8 @@
 		background: #fff;
 		top: 10px;
 		left: 16%;
-		box-shadow: 
-			0 10px 0 #fff, 
+		box-shadow:
+			0 10px 0 #fff,
 			0 20px 0 #fff;
 	}
 
@@ -150,7 +150,7 @@
 		width: 100%;
 		max-height: 90%;
 		overflow-y: auto;
-	  overflow-x: hidden;
+	  	overflow-x: hidden;
 		opacity: 0;
 		pointer-events: none;
 		box-shadow: 0 12px 24px rgba(#000,0.4);
@@ -196,10 +196,10 @@
 	}
 }
 
-/* 
+/*
 When a submenu is opened, we will hide all li siblings.
 For that we give a class to the parent menu called "dl-subview".
-We also hide the submenu link. 
+We also hide the submenu link.
 The opened submenu will get the class "dl-subviewopen".
 All this is done for any sub-level being entered.
 */
