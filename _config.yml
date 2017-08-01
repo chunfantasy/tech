@@ -1,4 +1,4 @@
-title:            CHUN'S BLOG
+title:            CHUN'S TECH BLOG
 description:      chun, fan, chunfantasy, ntnu, whut, trondheim, wuhan, Norway, China, software, e-business, java, engineer, 范春, 挪威, 中国, 特隆赫姆, 武汉, 挪威科技, 武汉理工, 计算机, 电子商务, 工程师
 disqus_shortname: chunfantasy
 reading_time:     true
@@ -55,7 +55,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
