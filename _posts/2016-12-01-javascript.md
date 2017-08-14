@@ -69,8 +69,13 @@ The other contents are also important. <a href="https://www.w3schools.com/js/def
 
 Try to understand
 
-```bash
-callback
+```javascript
+// callback
+
+function run(arg1, arg2, ...){
+
+}
+
 promise
 ```
 
@@ -94,7 +99,7 @@ Knowing that they exist is enough.
 Try to understand
 
 ```javascript
-# Arrow function
+// Arrow function
 () => ();
 () => {};
 
