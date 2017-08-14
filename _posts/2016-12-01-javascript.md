@@ -91,6 +91,15 @@ Knowing that they exist is enough.
 + TypeScript
   TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. <a href="https://en.wikipedia.org/wiki/TypeScript" target="_blank">Read more.</a>
 
+Try to understand
+
+```javascript
+# Arrow function
+() => ();
+() => {};
+
+```
+
 ---
 
 # Advanced
